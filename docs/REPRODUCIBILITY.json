@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "date": "2026-10-14",
+  "version": "0.5.0",
+  "clean_venv": true,
+  "system_site_packages": false,
+  "installation": "Pinned runtime/build packages from PyPI, built and installed package with --no-build-isolation --no-deps",
+  "python": "3.12.14",
+  "platform": "Darwin-arm64",
+  "unit_tests_passed": 6,
+  "pipeline_checks_passed": 141,
+  "frontier_checks_passed": 28,
+  "continuation_checks": "All amount, floor, exposure and independent ODE guards passed; failure would abort execution",
+  "full_runs": 2,
+  "repeat_scientific_comparison": {
+    "passed": true,
+    "rtol": 1e-09,
+    "atol": 1e-10
+  },
+  "pip_check": "No broken requirements found",
+  "figures_visually_reviewed": 4,
+  "hosted_github_ci_executed": false,
+  "synthetic": true,
+  "installed_package_execution": true,
+  "scientific_files_compared": 15,
+  "reference_scientific_comparison": {
+    "passed": true,
+    "rtol": 1e-09,
+    "atol": 1e-10
+  },
+  "dependency_versions": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.1",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.9",
+    "setuptools": "80.9.0",
+    "wheel": "0.45.1"
+  },
+  "license_scope": "Bundled code, documentation and generated synthetic data",
+  "python_support": "CPython >=3.12,<3.13, aligned across pyproject.toml, README, .python-version and GitHub Actions",
+  "scientific_alignment": "Core equations and theoretical benchmark align; full empirical manuscript reproduction not claimed",
+  "metadata_cleanup_verified": true,
+  "final_author": "Vangelis D. Karalis."
+}

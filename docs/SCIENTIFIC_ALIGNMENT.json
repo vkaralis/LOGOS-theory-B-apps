@@ -1,0 +1,102 @@
+{
+  "review_date": "2026-10-14",
+  "release": "0.5.0",
+  "scope": "Core equations and theoretical benchmark align; synthetic parameters and empirical tables/figures do not reproduce manuscript data; omitted campaigns listed in SCIENTIFIC_ALIGNMENT.md",
+  "manuscripts": [
+    {
+      "file": "4_Theory_B_Apps.docx",
+      "sha256": "c50f5a87b492c883eb51c36db360878701fd1997e98c3e0a8404c1afab901bf3",
+      "equations": [
+        "ΔJi = Ji+1 − Ji.",
+        "Cp(t) = ∫0t [w₁e−k₁(t−s) + w₂e−k₂(t−s)]u(s) ds.",
+        "Ce′ = ke0(Cp−Ce),   EEG = E₀[1−f Ceh/(Kh+Ceh)].",
+        "JRem = ∫0W Ce(t)/(K+Ce(t)) dt.",
+        "R′ = kout[K/(K+Cp)−R],   JWar = ∫0120 [1−R(t)] dt.",
+        "Jfamily* − J(v) ≤ maxw∈P ∇J(v)ᵀ(w−v)."
+      ]
+    },
+    {
+      "file": "4b_Theory_B_Apps_Supplement.docx",
+      "sha256": "d019dbbc89471addd7c18470d6567e5a71ef55a49dd1a4f72dddd064e06e79d6",
+      "equations": [
+        "dC = −kC dt + dμ,   g(C) = aC − (b/2)C²,   J = ∫0T g(C(t)) dt,   D≤B.",
+        "JWar(H) = ∫0H [Cp(s)/(K+Cp(s))][1−exp(−kout(H−s))] ds."
+      ]
+    }
+  ],
+  "source_archive_sha256": "6818abf3176166645b9f684f433e524979322c02d537deadc2b2e2b3f552b8a1",
+  "canonical_comparison": {
+    "B": {
+      "source": 12.613903616328283,
+      "release": 12.613903616328283,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "plateau": {
+      "source": 3.0,
+      "release": 3.0,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "cessation": {
+      "source": 3.2046345387760944,
+      "release": 3.2046345387760944,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "coast": {
+      "source": 0.7953654612239056,
+      "release": 0.7953654612239056,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "J": {
+      "source": 28.826261662949886,
+      "release": 28.826261662949886,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "Jref": {
+      "source": 25.460925472460776,
+      "release": 25.460925472460776,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "Jfloor": {
+      "source": 28.686783591954555,
+      "release": 28.686783591954555,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "redistribution_value": {
+      "source": 3.225858119493779,
+      "release": 3.225858119493779,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "stopping_value": {
+      "source": 0.13947807099533094,
+      "release": 0.13947807099533094,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "delayed_injury_peak": {
+      "source": 0.668740304976422,
+      "release": 0.668740304976422,
+      "absolute_error": 0.0,
+      "passed": true
+    },
+    "delayed_injury_peak_time": {
+      "source": 2.0117973905426254,
+      "release": 2.0117973905426254,
+      "absolute_error": 0.0,
+      "passed": true
+    }
+  },
+  "safe_constant_ceiling": {
+    "source": 11.270930289903271,
+    "release": 11.27093028990327,
+    "passed": true
+  },
+  "figure_review": "All three manuscript figures and all four fresh release figures visually inspected. Main Figure 1 and Supplement Figure S2 are different synthetic illustrations; Supplement Figure S1 uses the same theoretical curves with different presentation."
+}

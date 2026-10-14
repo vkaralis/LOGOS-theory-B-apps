@@ -1,0 +1,1 @@
+LOGOS (Longitudinal Optimization of Global Outcomes and Strategies) — Constrained mathematical optimization of finite-course PK/PD regimens using individual pharmacological models.

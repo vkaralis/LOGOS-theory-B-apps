@@ -1,0 +1,710 @@
+{
+  "all_passed": true,
+  "checks": [
+    {
+      "check": "All sequential fits succeeded",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.25 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.25 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.25 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.25 independent ODE",
+      "passed": true,
+      "detail": 1.4654943925052066e-14
+    },
+    {
+      "check": "SYN_REM_001 R1.25 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.5 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.5 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.5 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R1.5 independent ODE",
+      "passed": true,
+      "detail": 1.2434497875801753e-14
+    },
+    {
+      "check": "SYN_REM_001 R1.5 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R2 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R2 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R2 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 R2 independent ODE",
+      "passed": true,
+      "detail": 9.325873406851315e-15
+    },
+    {
+      "check": "SYN_REM_001 R2 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_001 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.25 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.25 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.25 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.25 independent ODE",
+      "passed": true,
+      "detail": 9.325873406851315e-15
+    },
+    {
+      "check": "SYN_REM_002 R1.25 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.5 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.5 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.5 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R1.5 independent ODE",
+      "passed": true,
+      "detail": 1.0658141036401503e-14
+    },
+    {
+      "check": "SYN_REM_002 R1.5 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R2 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R2 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R2 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 R2 independent ODE",
+      "passed": true,
+      "detail": 7.105427357601002e-15
+    },
+    {
+      "check": "SYN_REM_002 R2 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_002 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.25 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.25 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.25 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.25 independent ODE",
+      "passed": true,
+      "detail": 5.184741524999481e-14
+    },
+    {
+      "check": "SYN_REM_003 R1.25 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.5 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.5 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.5 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R1.5 independent ODE",
+      "passed": true,
+      "detail": 4.907185768843192e-14
+    },
+    {
+      "check": "SYN_REM_003 R1.5 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R2 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R2 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R2 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 R2 independent ODE",
+      "passed": true,
+      "detail": 4.285460875053104e-14
+    },
+    {
+      "check": "SYN_REM_003 R2 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_003 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.25 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.25 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.25 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.25 independent ODE",
+      "passed": true,
+      "detail": 2.7533531010703882e-14
+    },
+    {
+      "check": "SYN_REM_004 R1.25 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.5 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.5 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.5 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R1.5 independent ODE",
+      "passed": true,
+      "detail": 2.637889906509372e-13
+    },
+    {
+      "check": "SYN_REM_004 R1.5 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R2 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R2 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R2 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 R2 independent ODE",
+      "passed": true,
+      "detail": 1.0178524689763435e-12
+    },
+    {
+      "check": "SYN_REM_004 R2 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_REM_004 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R24 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R24 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R24 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R24 independent ODE",
+      "passed": true,
+      "detail": 2.1262280824885238e-10
+    },
+    {
+      "check": "SYN_WAR_001 R24 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R12 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R12 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R12 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R12 independent ODE",
+      "passed": true,
+      "detail": 2.540829768804542e-10
+    },
+    {
+      "check": "SYN_WAR_001 R12 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R6 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R6 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R6 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 R6 independent ODE",
+      "passed": true,
+      "detail": 2.8969537879675045e-10
+    },
+    {
+      "check": "SYN_WAR_001 R6 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_001 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R24 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R24 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R24 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R24 independent ODE",
+      "passed": true,
+      "detail": 2.0317969529060065e-10
+    },
+    {
+      "check": "SYN_WAR_002 R24 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R12 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R12 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R12 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R12 independent ODE",
+      "passed": true,
+      "detail": 2.1938717509328853e-10
+    },
+    {
+      "check": "SYN_WAR_002 R12 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R6 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R6 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R6 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 R6 independent ODE",
+      "passed": true,
+      "detail": 2.490025963197695e-10
+    },
+    {
+      "check": "SYN_WAR_002 R6 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_002 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R24 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R24 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R24 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R24 independent ODE",
+      "passed": true,
+      "detail": 1.9423396224738099e-10
+    },
+    {
+      "check": "SYN_WAR_003 R24 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R12 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R12 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R12 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R12 independent ODE",
+      "passed": true,
+      "detail": 2.191740122725605e-10
+    },
+    {
+      "check": "SYN_WAR_003 R12 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R6 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R6 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R6 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 R6 independent ODE",
+      "passed": true,
+      "detail": 2.65163890844633e-10
+    },
+    {
+      "check": "SYN_WAR_003 R6 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_003 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R24 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R24 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R24 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R24 independent ODE",
+      "passed": true,
+      "detail": 5.968558980384842e-11
+    },
+    {
+      "check": "SYN_WAR_004 R24 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R12 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R12 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R12 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R12 independent ODE",
+      "passed": true,
+      "detail": 5.968914251752722e-11
+    },
+    {
+      "check": "SYN_WAR_004 R12 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R6 solve",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R6 amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R6 exposure",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 R6 independent ODE",
+      "passed": true,
+      "detail": 5.906031219637953e-11
+    },
+    {
+      "check": "SYN_WAR_004 R6 nested value",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 floor 0.05 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "SYN_WAR_004 floor 0.25 nested",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Canonical analytical objective",
+      "passed": true,
+      "detail": 28.826261662949886
+    },
+    {
+      "check": "Canonical amount",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Delayed injury peak",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Dose-frontier independent checks",
+      "passed": true,
+      "detail": null
+    }
+  ]
+}

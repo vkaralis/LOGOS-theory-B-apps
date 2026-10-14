@@ -1,0 +1,16 @@
+{
+  "synthetic": true,
+  "available_per_course": {
+    "1": 12,
+    "2": 11,
+    "3": 12,
+    "4": 11
+  },
+  "paired_n": 11,
+  "median_change": 39.4599377135,
+  "bootstrap_95": [
+    36.9314716603,
+    44.043440119
+  ],
+  "interpretation": "Descriptive synthetic persistence; no stopping estimand"
+}

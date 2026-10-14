@@ -1,7 +1,7 @@
 {
   "status": "passed",
   "date": "2026-10-14",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "clean_venv": true,
   "system_site_packages": false,
   "installation": "Pinned runtime/build packages from PyPI, built and installed package with --no-build-isolation --no-deps",
@@ -19,7 +19,7 @@
   },
   "pip_check": "No broken requirements found",
   "figures_visually_reviewed": 4,
-  "hosted_github_ci_executed": false,
+  "hosted_github_ci_executed": true,
   "synthetic": true,
   "installed_package_execution": true,
   "scientific_files_compared": 15,
@@ -40,5 +40,12 @@
   "python_support": "CPython >=3.12,<3.13, aligned across pyproject.toml, README, .python-version and GitHub Actions",
   "scientific_alignment": "Core equations and theoretical benchmark align; full empirical manuscript reproduction not claimed",
   "metadata_cleanup_verified": true,
-  "final_author": "Vangelis D. Karalis."
+  "final_author": "Vangelis D. Karalis.",
+  "hosted_github_ci": {
+    "verified_release": "v0.5.0",
+    "commit": "393f2002ce39df704726dfa7cac8bd3cfdd2f4df",
+    "conclusion": "success",
+    "run_url": "https://github.com/vkaralis/LOGOS-theory-B-apps/actions/runs/38613179068",
+    "scope": "Two full synthetic runs, unit tests and scientific output comparison on GitHub Linux CPython 3.12. The v0.5.1 result is verified separately after publication."
+  }
 }

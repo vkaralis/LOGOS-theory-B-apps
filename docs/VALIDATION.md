@@ -4,7 +4,9 @@ This is an independently runnable **synthetic demonstration** of the declared
 models. All packaged observation data and generator parameters are invented.
 The release supports CPython 3.12; the local clean-install interpreter was
 3.12.14 on macOS arm64. GitHub Actions is configured for Linux CPython 3.12;
-execution of that hosted workflow is not claimed before upload.
+the hosted workflow completed successfully for v0.5.0, including two full
+synthetic runs and scientific output comparison. The run is linked in
+`REPRODUCIBILITY.json`; v0.5.1 is checked again after publication.
 
 The release checks deterministic data generation, the removable equal-rate
 singularity in effect-site convolution, independently integrated effect-site

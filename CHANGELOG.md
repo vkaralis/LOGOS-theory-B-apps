@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.5.1] — 2026-10-14
+
+- Corrected publication and GitHub Actions status in the release documentation.
+- Added release-inventory verification to GitHub Actions.
+- Rechecked metadata, archive contents, synthetic data and repository settings.
+- Mathematical models and numerical comparison definitions are unchanged.
+
+
 ## [0.5.0] — 2026-10-14
 
 Initial public-ready synthetic release.

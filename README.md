@@ -4,7 +4,7 @@
 
 **Author: Vangelis D. Karalis.**
 
-**Release v0.5.0 contains synthetic data only.** The research description below
+**Release v0.5.1 contains synthetic data only.** The research description below
 introduces the manuscript's scope. This public package implements the core
 model comparisons using newly simulated observations; it does not reproduce
 all empirical analyses, tables or figures. See the [scientific alignment
@@ -41,7 +41,7 @@ the complete sensitivity campaigns and warfarin residual/parameter bootstrap
 from the manuscript are not bundled. The included MTX bootstrap summarizes
 synthetic available pairs. [Validation scope](docs/VALIDATION.md) lists exclusions.
 
-Version **0.5.0**. Reproducible mathematical examples of temporal redistribution,
+Version **0.5.1**. Reproducible mathematical examples of temporal redistribution,
 policy-conditional stopping, dose saving and target feasibility.
 
 All bundled observations and profile parameters are **synthetic**, generated

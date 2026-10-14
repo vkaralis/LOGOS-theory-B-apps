@@ -1,6 +1,6 @@
 {
   "review_date": "2026-10-14",
-  "release": "0.5.0",
+  "release": "0.5.1",
   "scope": "Core equations and theoretical benchmark align; synthetic parameters and empirical tables/figures do not reproduce manuscript data; omitted campaigns listed in SCIENTIFIC_ALIGNMENT.md",
   "manuscripts": [
     {

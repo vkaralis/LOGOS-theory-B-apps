@@ -1,6 +1,6 @@
 {
   "source_sha256": {
-    "__init__.py": "7da1577383cef8f8be19d1ca8effbaf3a90c81c1bb332cd1dfdbaf9099ea08d0",
+    "__init__.py": "a2834d4eaa5bad2b0c1a2d0636f4420c15388c2d893067345bec39c2d78562ad",
     "benchmark.py": "b84ce3d9b06eee6e62633bb5d1b2bdc391fca614392a565b018079e6203fd558",
     "continuation.py": "02bd0dad50062889ac2202827274bb34039ebb15d28c78825ce6bc6decb4f24a",
     "fitting.py": "cc08e680ba76548fd4966718e7033fa9f11dc7bd69483f093b493acdf857b9a6",
@@ -8,7 +8,7 @@
     "pipeline.py": "94537ea7fb4cbbb7e062d29da9b4bedaf2118c604a026c014167e1f210d0f553",
     "synthetic.py": "1200de9e02570abaa327c58b7f8ff133bec6f6b7c9de696633700c1c0cc5617c"
   },
-  "version": "0.5.0",
+  "version": "0.5.1",
   "synthetic": true,
   "seed": 20261012,
   "profiles_per_drug": 4,

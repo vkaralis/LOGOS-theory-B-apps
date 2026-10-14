@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "logos-theory-b"
-version = "0.5.0"
+version = "0.5.1"
 authors = [{name = "Vangelis D. Karalis."}]
 description = "LOGOS (Longitudinal Optimization of Global Outcomes and Strategies) — Constrained mathematical optimization of finite-course PK/PD regimens using individual pharmacological models."
 readme = "README.md"

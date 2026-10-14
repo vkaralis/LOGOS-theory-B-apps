@@ -1,6 +1,6 @@
 # Scientific alignment with the manuscript
 
-Final review: 14 October 2026. Release: v0.5.0.
+Final review: 14 October 2026. Release: v0.5.1.
 Primary manuscript: *Applications of LOGOS Theory B to Finite-Course Regimen
 Design* (`4_Theory_B_Apps.docx`). Its supplied supplement and `repository.zip`
 were used as supporting sources. Exact source hashes and benchmark comparisons
